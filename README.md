@@ -1,6 +1,6 @@
 # Hospital-Management
 
-Heyy, I made this project using pure Java, just to enhance my knowledge in Java!
+Heyy, I made this project using pure Java and JDBC (MySQL), just to enhance my knowledge in Java!
 
 ![1](https://github.com/shahpranshu27/Hospital-Management/blob/main/Images_Hospital/1.png)
 
